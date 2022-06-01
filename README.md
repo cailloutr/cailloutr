@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 #About me
 
-- 🌱 I’m currently learning Android Development - Kotlin at [DIO](https://www.dio.me/en)
+- 🌱 I’m currently learning Android Development - Kotlin at [DIO](https://www.dio.me/en); Python
 - 😄 Pronouns: he/him
 -->
 
