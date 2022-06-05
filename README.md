@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 #### About me
 
-- 🌱 I’m currently learning Android Development - Kotlin at [DIO](https://www.dio.me/en); Python
+- 🌱 I’m currently learning Android Development - Kotlin at [DIO](https://www.dio.me/en); and also Python
 - 😄 Pronouns: he/him
