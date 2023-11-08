@@ -8,6 +8,6 @@
 #### About me
 
 
-- 🌱 I’m currently learning Android Development - Kotlin
+- Android Developer
 - Technologies: Java/Kotlin (Android Development), Android Studio
 - 😄 Pronouns: he/him
