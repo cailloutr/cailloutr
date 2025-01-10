@@ -7,7 +7,4 @@
 
 #### About me
 
-
-- Android Developer
-- Technologies: Java/Kotlin (Android Development), Android Studio
 - 😄 Pronouns: he/him
