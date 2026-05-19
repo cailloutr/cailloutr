@@ -1,5 +1,8 @@
 ### Hi there 👋
-###### Estudante de Sistemas de Informação no IFF Fluminense - *campus* Itaperuna - RJ, Brasil
+###### Formado em Sistemas de Informação no IFF Fluminense - *campus* Itaperuna - RJ, Brasil
+###### Dev front-end: Flutter, Angular
+
+
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio.trocilo@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
